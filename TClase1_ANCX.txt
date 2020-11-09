@@ -3,4 +3,9 @@ Java
 PHP
 C#
 C
+Lenguajes por aprender:
+Javascript
+Phyton
+Rubí
+C++
 
